@@ -74,7 +74,7 @@ echo -e " ${PURPLE}│$NC                                              ${NC} ${P
 echo -e " ${PURPLE}│$NC   ${COLOR1}[00]${NC} • GO BACK${NC}                              ${PURPLE}│$NC"
 echo -e " ${PURPLE}└───────────────────────────────────────────────┘${NC}"
 echo -e "${PURPLE}┌────────────────────── BY ───────────────────────┐${NC}"
-echo -e "${PURPLE}│${NC}                 •  Andyyuda  •                  ${PURPLE}│$NC"
+echo -e "${PURPLE}│${NC}                 •  kanghoryVPN  •                  ${PURPLE}│$NC"
 echo -e "${PURPLE}└─────────────────────────────────────────────────┘${NC}" 
 echo -e ""
 read -p " Select menu :  "  opt
